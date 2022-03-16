@@ -1,2 +1,1 @@
-Bibliothèque d'import export en JSON . 
-
+JSON I/O library in c. 
